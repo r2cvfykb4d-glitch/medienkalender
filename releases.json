@@ -1,0 +1,112 @@
+{
+  "releases": [
+    {
+      "date": "2026-09-02",
+      "category": "streaming",
+      "label": "DISNEY+",
+      "title": "STAR WARS: THE MANDALORIAN & GROGU"
+    },
+    {
+      "date": "2026-09-15",
+      "category": "ps5",
+      "label": "PS5",
+      "title": "MARVEL’S WOLVERINE"
+    },
+    {
+      "date": "2026-09-23",
+      "category": "streaming",
+      "label": "DISNEY+",
+      "title": "TOY STORY 5"
+    },
+    {
+      "date": "2026-10-09",
+      "category": "bluray",
+      "label": "4K / BLU-RAY",
+      "title": "STAR WARS: ANDOR · S1"
+    },
+    {
+      "date": "2026-10-23",
+      "category": "ps5switch",
+      "label": "PS5 / SWITCH 2",
+      "title": "CALL OF DUTY: MODERN WARFARE 4"
+    },
+    {
+      "date": "2026-11-05",
+      "category": "switch",
+      "label": "SWITCH 2",
+      "title": "THE LEGEND OF ZELDA: OCARINA OF TIME"
+    },
+    {
+      "date": "2026-11-11",
+      "category": "streaming",
+      "label": "PRIME VIDEO",
+      "title": "DER HERR DER RINGE: DIE RINGE DER MACHT · S3"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "ps5",
+      "label": "PS5",
+      "title": "GRAND THEFT AUTO VI"
+    },
+    {
+      "date": "2026-11-19",
+      "category": "kino",
+      "label": "KINO",
+      "title": "DIE TRIBUTE VON PANEM: SUNRISE ON THE REAPING"
+    },
+    {
+      "date": "2026-12-16",
+      "category": "kino",
+      "label": "KINO",
+      "title": "AVENGERS: DOOMSDAY"
+    },
+    {
+      "date": "2026-12-17",
+      "category": "kino",
+      "label": "KINO",
+      "title": "DUNE: PART THREE"
+    },
+    {
+      "date": "2026-12-25",
+      "category": "streaming",
+      "label": "HBO MAX",
+      "title": "HARRY POTTER · S1"
+    },
+    {
+      "date": "2027-04-08",
+      "category": "ps5switch",
+      "label": "PS5 / SWITCH 2",
+      "title": "FINAL FANTASY VII REVELATION"
+    },
+    {
+      "date": "2027-04-29",
+      "category": "kino",
+      "label": "KINO",
+      "title": "THE LEGEND OF ZELDA"
+    },
+    {
+      "date": "2027-05-26",
+      "category": "kino",
+      "label": "KINO",
+      "title": "STAR WARS: STARFIGHTER"
+    },
+    {
+      "date": "2027-11-25",
+      "category": "kino",
+      "label": "KINO",
+      "title": "DIE EISKÖNIGIN 3"
+    },
+    {
+      "date": "2027-12-15",
+      "category": "kino",
+      "label": "KINO",
+      "title": "AVENGERS: SECRET WARS"
+    },
+    {
+      "date": "2027-12-16",
+      "category": "kino",
+      "label": "KINO",
+      "title": "DER HERR DER RINGE: DIE JAGD NACH GOLLUM"
+    }
+  ]
+}
